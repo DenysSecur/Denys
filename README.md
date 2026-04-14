@@ -1,4 +1,4 @@
-# Hi, I'm Denys 👋
+# Hi, I'm DenysSecur 👋
 
 ## About Me
 - 🎓 Studying DevOps Engineering
